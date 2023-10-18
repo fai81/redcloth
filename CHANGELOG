@@ -1,3 +1,7 @@
+== 4.3.3 / October 18th, 2023
+
+* Fix CVE-2023-31606 (ReDOS possible in the sanitize_html function)
+
 == 4.3.2 / May 23rd, 2016
 
 * Fix additional case for CVE-2012-6684 [Joshua Siler]
